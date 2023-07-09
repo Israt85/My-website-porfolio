@@ -6,6 +6,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 .nav-title{
     color: #181818;
@@ -35,4 +36,15 @@ nav a {
     color: white;
     padding: 15px 35px;
     border: 0px;
+}
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner.profile-pic{
+    width: 500px;
 }
