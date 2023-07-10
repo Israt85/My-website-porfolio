@@ -107,6 +107,11 @@ main{
 #what-i-do-des{
     padding: 30px 150px;
 }
-.skill{
+.skil-container{
     display: flex;
+    justify-content: space-around;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
 }
