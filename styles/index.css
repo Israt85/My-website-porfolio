@@ -104,3 +104,9 @@ main{
     text-align: center;
     font-size: 18px;
 }
+#what-i-do-des{
+    padding: 30px 150px;
+}
+.skill{
+    display: flex;
+}
